@@ -1,0 +1,165 @@
+ 2026-06-16 21:54:52,808 : INFO : test_verify_application_url_001 : 25 :  This is info
+ 2026-06-16 21:54:52,810 : WARNING : test_verify_application_url_001 : 26 :  This is warning
+ 2026-06-16 21:54:52,811 : ERROR : test_verify_application_url_001 : 27 :  This is error
+ 2026-06-16 21:54:52,812 : CRITICAL : test_verify_application_url_001 : 28 :  This is critical
+ 2026-06-16 22:00:46,692 : INFO : test_verify_application_url_001 : 25 :  This is info
+ 2026-06-16 22:00:46,693 : WARNING : test_verify_application_url_001 : 26 :  This is warning
+ 2026-06-16 22:00:46,694 : ERROR : test_verify_application_url_001 : 27 :  This is error
+ 2026-06-16 22:00:46,694 : CRITICAL : test_verify_application_url_001 : 28 :  This is critical
+ 2026-06-16 22:02:35,198 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.address`.
+ 2026-06-16 22:02:35,200 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.address`.
+ 2026-06-16 22:02:35,233 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.address` has been localized to `en_US`.
+ 2026-06-16 22:02:35,239 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.address` has been localized to `en_US`.
+ 2026-06-16 22:02:35,247 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.automotive`.
+ 2026-06-16 22:02:35,257 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.automotive`.
+ 2026-06-16 22:02:35,270 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.automotive` has been localized to `en_US`.
+ 2026-06-16 22:02:35,275 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.bank`.
+ 2026-06-16 22:02:35,283 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.automotive` has been localized to `en_US`.
+ 2026-06-16 22:02:35,289 : DEBUG : _find_provider_class : 86 : Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+ 2026-06-16 22:02:35,291 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.bank`.
+ 2026-06-16 22:02:35,294 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.barcode`.
+ 2026-06-16 22:02:35,297 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.barcode` has been localized to `en_US`.
+ 2026-06-16 22:02:35,305 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.color`.
+ 2026-06-16 22:02:35,312 : DEBUG : _find_provider_class : 86 : Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+ 2026-06-16 22:02:35,320 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.barcode`.
+ 2026-06-16 22:02:35,326 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.color` has been localized to `en_US`.
+ 2026-06-16 22:02:35,328 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.barcode` has been localized to `en_US`.
+ 2026-06-16 22:02:35,333 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.company`.
+ 2026-06-16 22:02:35,340 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.color`.
+ 2026-06-16 22:02:35,357 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.company` has been localized to `en_US`.
+ 2026-06-16 22:02:35,360 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.color` has been localized to `en_US`.
+ 2026-06-16 22:02:35,361 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.credit_card`.
+ 2026-06-16 22:02:35,364 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.company`.
+ 2026-06-16 22:02:35,365 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.credit_card` has been localized to `en_US`.
+ 2026-06-16 22:02:35,369 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.currency`.
+ 2026-06-16 22:02:35,384 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.currency` has been localized to `en_US`.
+ 2026-06-16 22:02:35,389 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.date_time`.
+ 2026-06-16 22:02:35,392 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.company` has been localized to `en_US`.
+ 2026-06-16 22:02:35,399 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.credit_card`.
+ 2026-06-16 22:02:35,407 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.credit_card` has been localized to `en_US`.
+ 2026-06-16 22:02:35,411 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.currency`.
+ 2026-06-16 22:02:35,412 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.date_time` has been localized to `en_US`.
+ 2026-06-16 22:02:35,417 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.doi` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,418 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.emoji` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,418 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,421 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.geo`.
+ 2026-06-16 22:02:35,426 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.currency` has been localized to `en_US`.
+ 2026-06-16 22:02:35,428 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.geo` has been localized to `en_US`.
+ 2026-06-16 22:02:35,430 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.date_time`.
+ 2026-06-16 22:02:35,434 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.internet`.
+ 2026-06-16 22:02:35,449 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.date_time` has been localized to `en_US`.
+ 2026-06-16 22:02:35,454 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.doi` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,455 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.emoji` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,455 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,456 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.geo`.
+ 2026-06-16 22:02:35,462 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.geo` has been localized to `en_US`.
+ 2026-06-16 22:02:35,463 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.internet` has been localized to `en_US`.
+ 2026-06-16 22:02:35,466 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.internet`.
+ 2026-06-16 22:02:35,468 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.isbn`.
+ 2026-06-16 22:02:35,473 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.isbn` has been localized to `en_US`.
+ 2026-06-16 22:02:35,479 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.job`.
+ 2026-06-16 22:02:35,485 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.internet` has been localized to `en_US`.
+ 2026-06-16 22:02:35,490 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.isbn`.
+ 2026-06-16 22:02:35,493 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.isbn` has been localized to `en_US`.
+ 2026-06-16 22:02:35,497 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.job`.
+ 2026-06-16 22:02:35,502 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.job` has been localized to `en_US`.
+ 2026-06-16 22:02:35,508 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.lorem`.
+ 2026-06-16 22:02:35,513 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.job` has been localized to `en_US`.
+ 2026-06-16 22:02:35,517 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.lorem`.
+ 2026-06-16 22:02:35,527 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.lorem` has been localized to `en_US`.
+ 2026-06-16 22:02:35,528 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.misc`.
+ 2026-06-16 22:02:35,530 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.lorem` has been localized to `en_US`.
+ 2026-06-16 22:02:35,531 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.misc` has been localized to `en_US`.
+ 2026-06-16 22:02:35,531 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.misc`.
+ 2026-06-16 22:02:35,536 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.passport`.
+ 2026-06-16 22:02:35,536 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.misc` has been localized to `en_US`.
+ 2026-06-16 22:02:35,542 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.passport`.
+ 2026-06-16 22:02:35,542 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.passport` has been localized to `en_US`.
+ 2026-06-16 22:02:35,545 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.passport` has been localized to `en_US`.
+ 2026-06-16 22:02:35,550 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.person`.
+ 2026-06-16 22:02:35,553 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.person`.
+ 2026-06-16 22:02:35,600 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.person` has been localized to `en_US`.
+ 2026-06-16 22:02:35,600 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.person` has been localized to `en_US`.
+ 2026-06-16 22:02:35,623 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.phone_number`.
+ 2026-06-16 22:02:35,624 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.phone_number`.
+ 2026-06-16 22:02:35,647 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.phone_number` has been localized to `en_US`.
+ 2026-06-16 22:02:35,649 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.phone_number` has been localized to `en_US`.
+ 2026-06-16 22:02:35,651 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,652 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,653 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.sbn` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,654 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.ssn`.
+ 2026-06-16 22:02:35,654 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,655 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,656 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.sbn` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,656 : DEBUG : _find_provider_class : 76 : Looking for locale `en_US` in provider `faker.providers.ssn`.
+ 2026-06-16 22:02:35,670 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.ssn` has been localized to `en_US`.
+ 2026-06-16 22:02:35,673 : DEBUG : _find_provider_class : 95 : Provider `faker.providers.ssn` has been localized to `en_US`.
+ 2026-06-16 22:02:35,674 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,676 : DEBUG : _find_provider_class : 106 : Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not used for this provider.
+ 2026-06-16 22:02:35,685 : DEBUG : _binary_paths : 60 : Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\Admin\.wdm\gw1\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe
+ 2026-06-16 22:02:35,687 : DEBUG : _binary_paths : 60 : Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\Admin\.wdm\gw0\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe
+ 2026-06-16 22:02:35,742 : DEBUG : _start_process : 234 : Started executable: `C:\Users\Admin\.wdm\gw0\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe` in a child process with pid: 19020 using 0 to output -3
+ 2026-06-16 22:02:35,755 : DEBUG : _start_process : 234 : Started executable: `C:\Users\Admin\.wdm\gw1\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe` in a child process with pid: 17656 using 0 to output -3
+ 2026-06-16 22:02:35,899 : DEBUG : execute : 406 : POST http://localhost:61423/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': []}}}}
+ 2026-06-16 22:02:35,899 : DEBUG : execute : 406 : POST http://localhost:61425/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': []}}}}
+ 2026-06-16 22:02:35,900 : DEBUG : _new_conn : 241 : Starting new HTTP connection (1): localhost:61423
+ 2026-06-16 22:02:35,900 : DEBUG : _new_conn : 241 : Starting new HTTP connection (1): localhost:61425
+ 2026-06-16 22:02:37,994 : DEBUG : _make_request : 544 : http://localhost:61425 "POST /session HTTP/1.1" 200 0
+ 2026-06-16 22:02:37,995 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"149.0.7827.114","chrome":{"chromedriverVersion":"149.0.7827.115 (daf70f9ddee4b45d4f8870f574fbde61c0db4ca7-refs/branch-heads/7827_102@{#40})","userDataDir":"C:\\Users\\Admin\\AppData\\Local\\Temp\\scoped_dir17656_329807721"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:61444"},"goog:processID":25060,"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"c98ae9ba0517e5dd7dea7e6d4f190819"}} | headers=HTTPHeaderDict({'Content-Length': '908', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:37,996 : DEBUG : _request : 468 : Finished Request
+ 2026-06-16 22:02:37,998 : DEBUG : execute : 406 : POST http://localhost:61425/session/c98ae9ba0517e5dd7dea7e6d4f190819/window/maximize {}
+ 2026-06-16 22:02:38,225 : DEBUG : _make_request : 544 : http://localhost:61423 "POST /session HTTP/1.1" 200 0
+ 2026-06-16 22:02:38,226 : DEBUG : _make_request : 544 : http://localhost:61425 "POST /session/c98ae9ba0517e5dd7dea7e6d4f190819/window/maximize HTTP/1.1" 200 0
+ 2026-06-16 22:02:38,226 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":{"height":832,"width":1552,"x":-7,"y":-7}} | headers=HTTPHeaderDict({'Content-Length': '51', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:38,227 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"149.0.7827.114","chrome":{"chromedriverVersion":"149.0.7827.115 (daf70f9ddee4b45d4f8870f574fbde61c0db4ca7-refs/branch-heads/7827_102@{#40})","userDataDir":"C:\\Users\\Admin\\AppData\\Local\\Temp\\scoped_dir19020_2407938"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:61443"},"goog:processID":17284,"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"65f71d09e2dcc6c49993d9108aee7ead"}} | headers=HTTPHeaderDict({'Content-Length': '906', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:38,229 : DEBUG : execute : 406 : POST http://localhost:61425/session/c98ae9ba0517e5dd7dea7e6d4f190819/timeouts {'implicit': 2000}
+ 2026-06-16 22:02:38,230 : DEBUG : execute : 406 : POST http://localhost:61423/session/65f71d09e2dcc6c49993d9108aee7ead/window/maximize {}
+ 2026-06-16 22:02:38,234 : DEBUG : _make_request : 544 : http://localhost:61425 "POST /session/c98ae9ba0517e5dd7dea7e6d4f190819/timeouts HTTP/1.1" 200 0
+ 2026-06-16 22:02:38,235 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:38,235 : DEBUG : _request : 468 : Finished Request
+ 2026-06-16 22:02:38,239 : DEBUG : test_verify_application_url_001 : 24 :  This is debug
+ 2026-06-16 22:02:38,240 : INFO : test_verify_application_url_001 : 25 :  This is info
+ 2026-06-16 22:02:38,241 : WARNING : test_verify_application_url_001 : 26 :  This is warning
+ 2026-06-16 22:02:38,242 : ERROR : test_verify_application_url_001 : 27 :  This is error
+ 2026-06-16 22:02:38,242 : CRITICAL : test_verify_application_url_001 : 28 :  This is critical
+ 2026-06-16 22:02:38,243 : DEBUG : execute : 406 : POST http://localhost:61425/session/c98ae9ba0517e5dd7dea7e6d4f190819/url {'url': 'https://automation.credence.in'}
+ 2026-06-16 22:02:38,545 : DEBUG : _make_request : 544 : http://localhost:61423 "POST /session/65f71d09e2dcc6c49993d9108aee7ead/window/maximize HTTP/1.1" 200 0
+ 2026-06-16 22:02:38,545 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":{"height":832,"width":1552,"x":-7,"y":-7}} | headers=HTTPHeaderDict({'Content-Length': '51', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:38,546 : DEBUG : _request : 468 : Finished Request
+ 2026-06-16 22:02:38,547 : DEBUG : execute : 406 : POST http://localhost:61423/session/65f71d09e2dcc6c49993d9108aee7ead/timeouts {'implicit': 2000}
+ 2026-06-16 22:02:38,551 : DEBUG : _make_request : 544 : http://localhost:61423 "POST /session/65f71d09e2dcc6c49993d9108aee7ead/timeouts HTTP/1.1" 200 0
+ 2026-06-16 22:02:38,552 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:38,553 : DEBUG : _request : 468 : Finished Request
+ 2026-06-16 22:02:38,559 : DEBUG : execute : 406 : POST http://localhost:61423/session/65f71d09e2dcc6c49993d9108aee7ead/url {'url': 'https://automation.credence.in'}
+ 2026-06-16 22:02:40,400 : DEBUG : _make_request : 544 : http://localhost:61425 "POST /session/c98ae9ba0517e5dd7dea7e6d4f190819/url HTTP/1.1" 200 0
+ 2026-06-16 22:02:40,401 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:40,402 : DEBUG : _request : 468 : Finished Request
+ 2026-06-16 22:02:40,402 : DEBUG : execute : 406 : GET http://localhost:61425/session/c98ae9ba0517e5dd7dea7e6d4f190819/title {}
+ 2026-06-16 22:02:40,485 : DEBUG : _make_request : 544 : http://localhost:61425 "GET /session/c98ae9ba0517e5dd7dea7e6d4f190819/title HTTP/1.1" 200 0
+ 2026-06-16 22:02:40,485 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":"CredKart"} | headers=HTTPHeaderDict({'Content-Length': '20', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:40,489 : DEBUG : _request : 468 : Finished Request
+ 2026-06-16 22:02:40,496 : DEBUG : execute : 406 : DELETE http://localhost:61425/session/c98ae9ba0517e5dd7dea7e6d4f190819 {}
+ 2026-06-16 22:02:40,603 : DEBUG : _make_request : 544 : http://localhost:61423 "POST /session/65f71d09e2dcc6c49993d9108aee7ead/url HTTP/1.1" 200 0
+ 2026-06-16 22:02:40,604 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:40,605 : DEBUG : _request : 468 : Finished Request
+ 2026-06-16 22:02:40,605 : DEBUG : execute : 406 : GET http://localhost:61423/session/65f71d09e2dcc6c49993d9108aee7ead/title {}
+ 2026-06-16 22:02:40,672 : DEBUG : _make_request : 544 : http://localhost:61423 "GET /session/65f71d09e2dcc6c49993d9108aee7ead/title HTTP/1.1" 200 0
+ 2026-06-16 22:02:40,673 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":"CredKart"} | headers=HTTPHeaderDict({'Content-Length': '20', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:40,673 : DEBUG : _request : 468 : Finished Request
+ 2026-06-16 22:02:40,682 : DEBUG : execute : 406 : DELETE http://localhost:61423/session/65f71d09e2dcc6c49993d9108aee7ead {}
+ 2026-06-16 22:02:41,188 : DEBUG : _make_request : 544 : http://localhost:61425 "DELETE /session/c98ae9ba0517e5dd7dea7e6d4f190819 HTTP/1.1" 200 0
+ 2026-06-16 22:02:41,188 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:41,189 : DEBUG : _request : 468 : Finished Request
+ 2026-06-16 22:02:41,267 : DEBUG : _make_request : 544 : http://localhost:61423 "DELETE /session/65f71d09e2dcc6c49993d9108aee7ead HTTP/1.1" 200 0
+ 2026-06-16 22:02:41,268 : DEBUG : _request : 439 : Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+ 2026-06-16 22:02:41,268 : DEBUG : _request : 468 : Finished Request
+ 2026-06-16 22:25:35,027 : INFO : test_verify_application_url_001 : 30 : Testcase test_verify_application_url_001 is started
+ 2026-06-16 22:25:38,792 : INFO : test_verify_application_url_001 : 32 : Opening Browser and getting https://automation.credence.in
+ 2026-06-16 22:25:38,792 : INFO : test_verify_application_url_001 : 33 : Checking Page title
+ 2026-06-16 22:25:38,842 : INFO : test_verify_application_url_001 : 35 : test_verify_application_url_001 is pass
+ 2026-06-16 22:25:38,842 : INFO : test_verify_application_url_001 : 39 : test_verify_application_url_001 is complete
+ 2026-06-18 12:47:08,061 : WARNING : _process_logs : 163 : The chromedriver version (148.0.7778.178) detected in PATH at C:\Users\Admin\AppData\Local\Python\bin\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.114); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 12:52:50,000 : WARNING : _process_logs : 163 : The chromedriver version (148.0.7778.178) detected in PATH at C:\Users\Admin\AppData\Local\Python\bin\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.114); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 13:08:10,216 : WARNING : _process_logs : 163 : The chromedriver version (148.0.7778.178) detected in PATH at C:\Users\Admin\AppData\Local\Python\bin\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.114); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 13:18:57,584 : WARNING : _process_logs : 163 : The chromedriver version (148.0.7778.178) detected in PATH at C:\Users\Admin\AppData\Local\Python\bin\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.114); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry
+ 2026-06-18 13:45:19,500 : WARNING : _process_logs : 163 : The chromedriver version (148.0.7778.178) detected in PATH at C:\Users\Admin\AppData\Local\Python\bin\chromedriver.exe might not be compatible with the detected chrome version (149.0.7827.114); currently, chromedriver 149.0.7827.155 is recommended for chrome 149.*, so it is advised to delete the driver in PATH and retry

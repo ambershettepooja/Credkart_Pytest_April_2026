@@ -1,0 +1,24 @@
+-------Automation testinh plan
+
+--scope (Decide kiya jata hai)
+1. Registration
+2. Login
+3. add product Cart, Product quantity
+4. Wishlist
+5. Amount verification
+6. Check Out
+7. Login_DDT_EXCEL
+8. Login_DDT_Params
+9. Registration_DDT_Excel
+10.Registration_DDT_Params
+11.Verify Application URL  (This will be 1st test case)
+--duration (decide kiya jaa hai)
+--efforts (decide kiya jaa hai)
+
+jenkin
+git
+
+
+--Duration &  --efforts
+In hrs = 16-24 hrs --> 2 or 3 days --> 5 story points
+
