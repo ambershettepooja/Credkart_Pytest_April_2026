@@ -1,1 +1,2 @@
 1. Test file created and edited in global
+2. Test file created and edited in local
